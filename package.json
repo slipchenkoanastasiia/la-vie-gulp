@@ -1,0 +1,24 @@
+{
+  "name": "la-vie-gulp",
+  "version": "1.0.0",
+  "description": "on-line shop for women",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slipchenkoanastasiia/la-vie-gulp.git"
+  },
+  "author": "slipchenkoanastasiia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slipchenkoanastasiia/la-vie-gulp/issues"
+  },
+  "homepage": "https://github.com/slipchenkoanastasiia/la-vie-gulp#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
